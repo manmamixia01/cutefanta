@@ -1,0 +1,23 @@
+<svg height="799" viewBox="0 0 1366 799" width="1366" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none">
+  <clipPath id="a">
+    <path d="m-14654 4730h1366v799h-1366z" />
+  </clipPath>
+  <clipPath id="b">
+    <path d="m0 0h1366v935.318h-1366z" />
+  </clipPath>
+  <linearGradient id="c" gradientUnits="objectBoundingBox" x1=".943" x2=".26" y1=".119" y2=".185">
+    <stop offset="0" stop-color="#37db62" />
+    <stop offset=".512" stop-color="#3dd5de" />
+    <stop offset="1" stop-color="#d7f6fe" />
+  </linearGradient>
+  <linearGradient id="d" gradientUnits="objectBoundingBox" x1=".555" x2=".052" y1=".127" y2=".07">
+    <stop offset="0" stop-color="#ffe560" />
+    <stop offset="1" stop-color="#fa3f3d" />
+  </linearGradient>
+  <g clip-path="url(#a)" transform="translate(14654 -4730)">
+    <g clip-path="url(#b)" transform="translate(-14654 4593.683)">
+      <path d="m7339.006 8670.985s-214.481 59.432-504.939 86.322-406.674 18.583-505.76 5.855-180.847 122.4-180.847 122.4l120.892 761.638h1106.77z" fill="url(#c)" transform="translate(-5947.582 -8655.986)" />
+      <path d="m6522.941 8744.329s614.183-32.339 772.7 159.064 279.359 742.175 279.359 742.175h-1052.059z" fill="url(#d)" transform="translate(-6522.941 -8656.472)" />
+    </g>
+  </g>
+</svg>
